@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://mehedi_sharif@bitbucket.org/themefishertemplate/swift.git"
+    "url": "https://github.com/yashguptaab99/MyPortfolio"
   },
-  "author": "",
+  "author": "Yash Gupta",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/themefishertemplate/swift#readme"
+  "homepage": "https://yashguptaab99.github.io/MyPortfolio/"
 }
